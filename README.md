@@ -6,7 +6,7 @@ Check out the working demo: http://xivor.github.io/csv-to-html-table/
 
 ## Special Thanks
 Special thanks to the original poster of this application at his site below:
-https://github.com/derekeder/csv-to-html-table/issues
+https://github.com/derekeder/csv-to-html-table
 
 ## Contributors 
 
